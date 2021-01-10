@@ -1,4 +1,4 @@
-void SelectionSt(int array[], int n)
+void SelectionSort(int array[], int n)
 {
    int i, j, min;
    for (i = 0; i < n - 1; i++)
