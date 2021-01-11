@@ -2,6 +2,7 @@ prog: num_generator.c selection_sort.c insertion_sort.c main.c radix_sort.c shel
     gcc num_generator.c -o num_generator;
     gcc selection_sort.c -o selection_sort;
     gcc insertion_sort.c -o insertion_sort;
-    gcc radix_sort.c -o radix_sort;
     gcc main.c -o main;
+    gcc radix_sort.c -o radix_sort;
     gcc shell_sort.c -o shell_sort;
+
